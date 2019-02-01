@@ -1,11 +1,7 @@
 # Hi everyone
 
-This is my article. This is my article. This is my article. This is my article. This is my article. This is my article. This is my article. This is my article. This is my article. This is my article. This is my article.
+Hopefully I'll have something interesting to write in the next short while. Thank you.
 
-## More notes
-
-Another note, and it is here.
-
-![This is my information][information]
+![Sid Momin][information]
 
 [information]: ./Sid_Momin.jpg "Sid Momin"
