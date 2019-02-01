@@ -4,4 +4,4 @@ Hopefully I'll have something interesting to write in the next short while. Than
 
 ![Sid Momin][information]
 
-[information]: ./Sid_Momin.jpg "Sid Momin"
+[information]: Sid_Momin.jpg "Sid Momin"
